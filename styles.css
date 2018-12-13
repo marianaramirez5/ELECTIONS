@@ -1,0 +1,43 @@
+.person {
+    border: 5px black solid;
+    text-align: center;
+    background-color: pink;
+    margin: 15px; 
+    font-family: 'Francois One', sans-serif;
+    color: blue ;
+}
+.potato {
+    border: 5px Black Solid;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color: pink;
+    margin: 15px;
+    font-family: 'Dancing Script', cursive;    
+    color: blue ;
+}
+.important {
+    border: 5px black solid;
+    display: flex;
+    padding: 10px;
+    background-color: pink;
+}
+img {
+    height: 200px;
+    width: 250px;
+    width: 33% ;
+
+}
+button {
+    height: 50px;
+    width: 70px;
+    display:flex;   
+    color: blue;
+}
+body {
+    background-color: orange; 
+}
+.button { 
+    display:flex;
+    justify-content: center;
+}
